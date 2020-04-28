@@ -1,2 +1,10 @@
 # cicada3301
-This repository contains the small amount of work I have put into the cicada3301 challenges.
+
+`page_1` contains the first page of the Liber Primus encoded as UTF-8.
+
+`atbash.py` Solves the Atbash cipher of page_1.
+
+# To run
+
+`$ python atbash.py` 
+
